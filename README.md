@@ -40,7 +40,7 @@ Il tool offre le seguenti opzioni:
 Puoi scaricare il tool come file `.zip` o clonare il repository direttamente sul tuo computer.
 
 ```bash
-git clone https://github.com/tuo-utente/windows-multi-tool.git
+git clone https://github.com/ryx07/windows-multi-tool.git
 ```
 
 ### 2. **Installa le dipendenze:**
